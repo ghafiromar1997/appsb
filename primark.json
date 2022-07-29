@@ -1,3 +1,4 @@
+
 {
 "admob_banner": "114414",
 "admob_inter": "1414",
@@ -20,7 +21,7 @@
 "isInReview": false,
 "categories": [
 {
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
+"imageUrl": "https://raw.githubusercontent.com//Test/main/charms.png",
 "name": "Charms",
 "items": [
 {
@@ -28,68 +29,68 @@
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/charms1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "35$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/charms2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "15$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/charms3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "55$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "60$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "47$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r4.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r4.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "22$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r5.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r5.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "13$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r6.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "12$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r7.png"
 }
 ]
 },
 {
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets.png",
+"imageUrl": "https://raw.githubusercontent.com//Test/main/bracelets.png",
 "name": "Bracelets",
 "items": [
 {
@@ -97,144 +98,144 @@
 "discount": "10% Off",
 "price": "18$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/bracelets1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "78$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/bracelets2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "99$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/bracelets3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/bracelets3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "4$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r1.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "5$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "15$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "75$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r4.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r4.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "95$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r5.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r5.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "41$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r6.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "40$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r7.png"
 }
 ]
 },
 {
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings.png",
-"name": "Rings",
+"imageUrl": "https://raw.githubusercontent.com//Test/main/rings.png",
+"name": "Rings
 "items": [
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "40$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/rings1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "41$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/rings2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "48$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/rings3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/rings3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "90$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "19$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "77$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r4.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r4.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "65$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r5.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r5.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "18.5$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r6.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "17.8$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r7.png"
 }
 ]
 },
 {
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings.png",
+"imageUrl": "https://raw.githubusercontent.com//Test/main/earrings.png",
 "name": "Earrings",
 "items": [
 {
@@ -242,35 +243,35 @@
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/earrings1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/earrings2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/earrings3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/earrings3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r3.png"
 },
 {
 "name": "Ring",
@@ -291,19 +292,19 @@
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r6.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r7.png"
 }
 ]
 },
 {
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces.png",
+"imageUrl": "https://raw.githubusercontent.com//Test/main/necklaces.png",
 "name": "Necklaces",
 "items": [
 {
@@ -311,68 +312,68 @@
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/necklaces1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/necklaces2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/necklaces3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/necklaces3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r4.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r4.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r5.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r5.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r6.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r7.png"
 }
 ]
 },
 {
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new.png",
+"imageUrl": "https://raw.githubusercontent.com//Test/main/new.png",
 "name": "New",
 "items": [
 {
@@ -380,63 +381,63 @@
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/new1.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/new2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/new3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/new3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r2.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r3.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r4.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r4.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r5.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r5.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r6.png"
 },
 {
 "name": "Ring",
 "discount": "10% Off",
 "price": "45$",
 "color": "fff000",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+"imageUrl": "https://raw.githubusercontent.com//apps/main/r7.png"
 }
 ]
 }
@@ -448,8 +449,8 @@
 "price": "45$",
 "quantity": "14",
 "unit": "",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery1.png",
-"bigimageurl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery1.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/top_jewellery1.png",
+"bigimageurl": "https://raw.githubusercontent.com//Test/main/top_jewellery1.png"
 },
 {
 "name": "Ring",
@@ -457,8 +458,8 @@
 "price": "45$",
 "quantity": "14",
 "unit": "",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery2.png",
-"bigimageurl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery2.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/top_jewellery2.png",
+"bigimageurl": "https://raw.githubusercontent.com//Test/main/top_jewellery2.png"
 },
 {
 "name": "Ring",
@@ -466,8 +467,8 @@
 "price": "45$",
 "quantity": "14",
 "unit": "",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery3.png",
-"bigimageurl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery3.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/top_jewellery3.png",
+"bigimageurl": "https://raw.githubusercontent.com//Test/main/top_jewellery3.png"
 },
 {
 "name": "Ring",
@@ -475,8 +476,8 @@
 "price": "45$",
 "quantity": "14",
 "unit": "",
-"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery4.png",
-"bigimageurl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/top_jewellery4.png"
+"imageUrl": "https://raw.githubusercontent.com//Test/main/top_jewellery4.png",
+"bigimageurl": "https://raw.githubusercontent.com//Test/main/top_jewellery4.png"
 }
 ]
 }
