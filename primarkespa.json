@@ -1,12 +1,12 @@
 {
 "admob_banner": "114414",
 "admob_inter": "1414",
-"APP_KEY": "",
+"APP_KEY": "15fd331cd",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 "APPLOVIN_BANNER": "",
 "APPLOVIN_INTERSTITIAL": "",
-"whichAds": 2,
+"whichAds": 1
 "popAppLink": "htp",
 "popAppName": "Gap",
 "popAppImage": "h2.png",
