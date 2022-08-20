@@ -1,7 +1,7 @@
 {
-"admob_banner": "ca-app-pub-8387649159914980/8749617082",
-"admob_inter": "ca-app-pub-8387649159914980/5614249482",
-"APP_KEY": "15fd331cd",
+"admob_banner": "nhfhf082",
+"admob_inter": "hh9482",
+"APP_KEY": "hhhh",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 "APPLOVIN_BANNER": "114414114414",
@@ -14,10 +14,10 @@
 "popAppIsActive": false,
 "BUTTON_NAME_1": "Begin Now",
 "BUTTON_NAME_2": "Go Show",
-"URL": "https://www.primark.com/fr",
+"URL": "",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": false,
+"isInReview": true,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
