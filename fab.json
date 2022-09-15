@@ -6,7 +6,7 @@
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 "APPLOVIN_BANNER": "78888",
 "APPLOVIN_INTERSTITIAL": "78888",
-"whichAds": 2,
+"whichAds": 1,
 "popAppLink": "htp",
 "popAppName": "Gap",
 "popAppImage": "h2.png",
@@ -14,10 +14,10 @@
 "popAppIsActive": false,
 "BUTTON_NAME_1": "Begin Now",
 "BUTTON_NAME_2": "Go Show",
-"URL": "",
+"URL": "https://www.fabletics.fr/",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": true,
+"isInReview": false,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
